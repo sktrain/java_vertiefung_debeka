@@ -1,2 +1,2 @@
-# java_fortgeschritten
-Materialien zum Seminar Java Fortgeschritten
+# java_vertiefung
+Materialien zum Seminar Java Vertiefung
