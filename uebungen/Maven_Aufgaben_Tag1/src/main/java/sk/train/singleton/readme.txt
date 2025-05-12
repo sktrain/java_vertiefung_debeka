@@ -1,0 +1,1 @@
+Erste Umsetzung des Singleton-Patterns + Test erstellen
