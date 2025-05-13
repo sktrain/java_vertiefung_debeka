@@ -1,0 +1,1 @@
+Was passiert, wenn man nur equals überschreibt ohne hashcode anzupassen?
