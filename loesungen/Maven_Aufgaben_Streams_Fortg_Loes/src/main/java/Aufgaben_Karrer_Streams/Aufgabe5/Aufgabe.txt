@@ -1,0 +1,3 @@
+/* Berechnung des Produkts der positiven Ganzzahlen von 1 bis 100 (Fakultät)
+ * und der Summe dieser Zahlen in einem Stream-Durchlauf mittels eigenem Reducer
+*/
