@@ -1,0 +1,1 @@
+Ein paar fortgeschrittene Aufgaben zum Stream-API

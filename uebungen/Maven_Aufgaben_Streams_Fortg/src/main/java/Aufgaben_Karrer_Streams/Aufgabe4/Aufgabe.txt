@@ -1,0 +1,4 @@
+/*	Berechnung der Anzahl der positiven, negativen und 0-Werte in einem gegebenen Array mittels 
+ *  eines Stream-Durchlaufs.
+ *  Einmal mit Standard-Collector und alternativ mit selbstgeschriebenem Collector  
+ */

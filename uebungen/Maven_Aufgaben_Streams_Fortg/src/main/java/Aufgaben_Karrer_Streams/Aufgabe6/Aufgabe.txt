@@ -1,0 +1,3 @@
+/* Ersetze die Generierung des Zufalls-String durch eine Stream-Variante unter 
+ * Nutzung der ints-Methode aus Random (liefert Stream) und Collector (nutze StringBuffer)
+ */

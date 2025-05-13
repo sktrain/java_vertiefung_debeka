@@ -1,0 +1,2 @@
+Wie können wir einen Stream von Boolean auf Basis eines boolean[] erzeugen?
+Es genügt die Elemente aus dem stream anschließend einfach auszugeben.
