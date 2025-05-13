@@ -1,0 +1,1 @@
+Das Beispiel sollte thread-safe werden (synchronized verwenden!).
