@@ -1,0 +1,1 @@
+Das Beispiel soll auf die Nutzung des Fork-Join-Pools umgestellt werden.
