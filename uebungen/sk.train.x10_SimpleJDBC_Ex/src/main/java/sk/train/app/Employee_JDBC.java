@@ -56,7 +56,7 @@ public class Employee_JDBC {
 	
 	
 	/* z.B. INSERT INTO hr.employees (employee_id, first_name, last_name, hire_date, job_id, salary) 
-		VALUES (301, 'Stephan', 'Karrer', TO_DATE('01-01-1960', 'dd-MM-yyyy'), 'ST_CLERK', 5000);
+		VALUES (301, 'Stephan', 'Karrer', PARSEDATETIME('01-01-1960', 'dd-MM-yyyy'), 'ST_CLERK', 5000);
 	*/
 	public static void insertEmp(Connection con, Employee emp) throws SQLException {
 		//todo
