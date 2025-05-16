@@ -1,0 +1,6 @@
+Loesung:
+
+Es soll ein Repository für den Zugriff auf die Employee-Tabelle erstellt werden.
+Eine passende Employee-Klasse ist bereits vorhanden.
+
+Komplettieren Sie den Code in der Klasse Employee_JDBC
