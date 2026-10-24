@@ -6,7 +6,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>sk.train</groupId>
-	<artifactId>Maven_Basis_Java21</artifactId>
+	<artifactId>Maven_Basis_10_26</artifactId>
 	<version>1.0-SNAPSHOT</version>
 
 	<name>Maven_Basis</name>
