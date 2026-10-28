@@ -1,0 +1,1 @@
+Beispiel für einen einfachen dynamischen Proxy mit den Mitteln der Java SE
